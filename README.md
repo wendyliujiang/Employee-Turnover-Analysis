@@ -4,7 +4,7 @@
 
 The Employee Turnover Project is a comprehensive analysis of factors that influence employee turnover, leveraging the power of Python for data processing, analysis, and predictive modeling. Through this project, we aim to uncover patterns and insights that can guide HR practices and organizational policies. This repository contains all necessary code, data, and visualizations to understand and replicate our findings.
 
-##Project Steps:
+## Project Steps:
  - Data Cleaning: Processing raw data to remove anomalies, handle missing values, and standardize formats.
 - Summary Statistics: Understanding central tendencies, dispersions, and distributions of key variables.
 - Exploratory Data Analysis (EDA): Visual and quantitative methods to understand patterns, relationships, and potential anomalies in the dataset.
@@ -18,3 +18,7 @@ The Employee Turnover Project is a comprehensive analysis of factors that influe
 - Matplotlib & Seaborn: Visualization tools for EDA.
 - Scikit-learn: Machine learning library for modeling, feature engineering, and predictions.
 - Imbalanced-learn: Tackling the imbalance in the dataset.
+
+
+## Conclusion:
+Through this project, we have tried to shed light on the important and often overlooked issue of employee turnover. Our analysis provides actionable insights that organizations can use to improve retention strategies and create a more inclusive workplace environment.
